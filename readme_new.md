@@ -35,8 +35,4 @@ Assignment 3
 8. Now, I added the IMU sensor using a similar process.
 9. Added the gmapping node in the rviz launch file of the robot and used the laser to visualise the world using the map.
 
-
-
-```python
-
-```
+Video Link- https://www.youtube.com/watch?v=b3E1uNyxU4E
